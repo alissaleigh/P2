@@ -5,7 +5,7 @@
 
 ### Business problem:
 
-There are many reason why we need to know what type of income is being earned, such as ensuring we're providing a competive rate to help instentivise employees to continue working with and for us.
+There are many reason why we need to know what type of income is being earned, such as ensuring we're providing a competive rates for out clients and what 
 
 
 ### Data:
@@ -26,13 +26,13 @@ The above data goes a sample of information of various persons and how much mone
 When we ran the data through macine learning and a couple of modles, here are the results
 
 Decision Tree Classifier:
-> 0.8104340479459288
+> 0.8130742422642306
 
 Random Tree Classifier:
-> 0.8256415672193473
+> 0.8124405956278382
 
 K-Nearest Neighbors:
-> 0.8089555391276798
+> 0.8066321681275742
 
 
 #### What we can learn looking at the results
