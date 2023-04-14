@@ -5,7 +5,7 @@
 
 ### Business problem:
 
-There are many reason why we need to know what type of income is being earned, such as ensuring we're providing a competive rates for out clients and what 
+There are many reason why we need to know what type of income is being earned, such as ensuring we're providing a competive rates for out clients in ensuring we're offering them the porducts that work for them and their banking needs.
 
 
 ### Data:
@@ -36,7 +36,11 @@ K-Nearest Neighbors:
 
 
 #### What we can learn looking at the results
-For this data we would want to use the Random Tree as it provided the best results for us and should help us in getting us the most accurate results.
+For this data we would want to use the Decision Tree as it provided the best overal results for us and should help us in getting us the most accurate results.
+
+## Recomendations:
+
+We can use our model to help know what banking items out customers might wish to use. Such as knowing that our customers might be bringing in over 50K and wanting suggests and go over the bennfits of our products such as a CD and how it bennfits them. Or knowing that our customers who are less likely to bringing in 50K that way we can push other products such as accounts we have not require them to keep a high blance in their accounts.
 
 ### For further information
 
